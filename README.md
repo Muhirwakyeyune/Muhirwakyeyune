@@ -15,9 +15,9 @@ I'm passionate about the intersection of Artificial Intelligence and Biomedical 
 
 Here are some of the projects I've been working on:
 
-- [Project 1: AI-Based Enhanced  Brain Tumor Classification using Deep CNN) - Developed an AI system for early detection of diseases.
-- [Project 2: Heart Disease Prediction](link_to_project_2) - Developed an AI system for heart arythemia prediction.
-- [Project 3: Predicting DNA Transcription Factor Binding Sites: A Machine Learning with Kernel Methods](link_to_project_3) - Explored deep learning techniques for DNA prediction analysis.
+- [Project 1: AI-Based Enhanced  Brain Tumor Classification using Deep CNN](https://github.com/Muhirwakyeyune/mind_tumor_repo) - Developed an AI system for early detection of diseases.
+- [Project 2: Heart Disease Prediction](https://github.com/Muhirwakyeyune/heart_D_prediction) - Developed an AI system for heart arythemia prediction.
+- [Project 3: Predicting DNA Transcription Factor Binding Sites: A Machine Learning with Kernel Methods](https://github.com/Muhirwakyeyune/DNA_B_sites) - Explored deep learning techniques for DNA prediction analysis.
 
 Feel free to explore my repositories to learn more about these projects and my other contributions.
 
