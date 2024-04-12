@@ -1,6 +1,4 @@
 # Hi there, I'm Muhirwa Salomon! 👋
-![Profile Views](https://komarev.com/ghpvc/?username=Muhirwakyeyune)
-
 Welcome to my GitHub profile!
 
 I'm passionate about the intersection of Artificial Intelligence and Biomedical Engineering, particularly in the field of Neuroscience. Here, you'll find some collection of my projects, ranging from AI-based healthcare solutions to neural network applications in biomedical research.
