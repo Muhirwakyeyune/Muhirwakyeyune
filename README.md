@@ -1,4 +1,5 @@
 # Hi there, I'm Muhirwa Salomon! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Muhirwakyeyune)
 
 Welcome to my GitHub profile!
 
