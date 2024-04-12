@@ -6,7 +6,7 @@ I'm passionate about the intersection of Artificial Intelligence and Biomedical 
 
 ## About Me
 
-- 🎓 Graduated in Electrical Engineering and currently Master In Artificial Intelligence
+- 🎓 Graduated in Electrical Engineering and completing a  Master In Artificial Intelligence
 - 🧠 Interested in Neuroimaging and Brain-Computer Interfaces
 - 💻 Skilled in Machine Learning, Deep Learning, and Data Analysis
 - 🌱 Currently exploring the applications of AI in neuroscience research
