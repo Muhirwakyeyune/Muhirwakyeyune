@@ -5,7 +5,7 @@ I'm passionate about the Natural Language Processing, Deep learning for images a
 
 ## About Me
 
-- 🎓 Graduated in Electrical Engineering and completing a  Master In Artificial Intelligence
+- 🎓 Graduated in Electrical Engineering and highly interested in a  Master In Artificial Intelligence
 - 🧠 Interested in Neuroimaging and Brain-Computer Interfaces
 - 💻 Skilled in Machine Learning, Deep Learning, and Data Analysis
 - 🌱 Currently exploring the applications of AI in neuroscience research
